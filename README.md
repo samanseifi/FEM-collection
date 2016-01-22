@@ -1,4 +1,2 @@
 # FEMPractice
-Simple Finite Element Codes in MATLAB
-
-Coming Soon!
+Simple Finite Element Codes in MATLAB and Python
