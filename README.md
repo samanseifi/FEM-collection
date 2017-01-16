@@ -1,2 +1,3 @@
-# FEMPractice
-Simple Finite Element Codes in MATLAB and Python.
+# FEM
+
+Simple finite element codes
